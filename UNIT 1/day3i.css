@@ -1,0 +1,28 @@
+p{
+    background-color: rgb(132, 98, 151);
+}
+
+.first{
+        border-style:none;        /* solid, dashed, dotted, double, inset, outset, groove, ridge;*/
+        border-radius: 50px;
+        border-left: 50px solid ;
+        border-right: 50px solid ;
+        text-align:center;
+        padding: 20px;
+        font-family:sans-serif;
+        border-color:rgb(141, 99, 165);
+        font-weight: 100em;
+        font-style:inherit;
+        margin: 10% 10% 10% 10%;
+    
+        background-color: rgb(144, 198, 72);
+}
+
+.second{
+    font-style: italic;
+    font-display:initial; 
+    text-decoration:underline;
+    text-decoration-color: crimson;
+    text-transform:capitalize;
+    text-indent: 40%;
+}

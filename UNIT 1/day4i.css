@@ -1,0 +1,15 @@
+h3{
+    color:chocolate;
+}
+.div1{
+    display:grid;
+    grid-template-rows:60% 45% 30%;
+    grid-template-columns: 15% 25% 40%;
+}
+.div1 > div{        /*use to denote child of .div1 parent class*/
+    border: 1px solid rgb(250, 2, 2);
+    background-color: cornsilk;
+    text-align: center;
+    padding: 20px;
+    
+}

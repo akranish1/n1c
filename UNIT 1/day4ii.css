@@ -1,0 +1,87 @@
+.divf{
+
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 20px;
+    border-top: 100px;
+    background-color:azure;
+    font-weight: 1000;
+
+}
+.divs{
+    background-image:url(img.webp);
+    background-size: cover;
+    background-position: center;
+    text-align: left;
+
+}
+form {
+    align-content:center;
+    margin: auto;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+  }
+#namei{
+        width: 80%;
+        height: 80%;
+        padding: 10px;
+        font-size: 15px;
+       margin-bottom: 10%; 
+       border-color: beige;
+       border-radius: 20px;
+}
+
+#name{
+    padding-left: 0%;
+    text-shadow: 20px;
+}
+
+#ei{
+    width: 80%;
+    height: 80%;
+    padding: 10px;
+    font-size: 15px;
+    margin-bottom: 10%;
+    border-color:beige;
+    border-radius:20px;
+}
+
+#mi{
+    width: 80%;
+    height: 80%;
+    padding: 10px;
+    font-size: 15px;
+    margin-bottom:10%;
+    border: 2px inset beige;
+    border-radius:20px;
+    text-shadow: 20px;
+}
+.fmc1{
+    padding : 20%;
+}
+.divz{
+    background-color: blanchedalmond;
+    background-image: "./cat.gif";
+}
+body{
+    background-image: url(img.webp);
+    background-size: cover;
+    background-position: center;
+    font-size: 20px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    padding: 10%;
+   
+}
+.mclass{
+    padding: 10%;
+    border-radius: 20px;
+}
+
+.sc1{
+    font-weight: 1000;
+    
+    background-color:darkkhaki;
+    padding: 15px 30px;
+    border-radius: 100px;
+    cursor:pointer;
+    margin-left: 30%;
+}
